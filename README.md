@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Online Appointment System**
 
-- 🌱 I’m currently learning **MongoDB, MERN**
+- 🌱 I’m currently learning **MongoDB, React,express,Node js MERN**
 
 - 👯 I’m looking to collaborate on **frontend and ai dev projects**
 
